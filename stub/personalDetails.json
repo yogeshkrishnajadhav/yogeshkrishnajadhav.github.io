@@ -96,7 +96,8 @@
 						{ "point" : "e-commerse Project" },
 		           		{ "point" : "complete core PHP development" },
 		           		{ "point" : "Handles forms and CURD operations" },
-		                { "point" : "integrated third Rparty plugins like payment Gateway and SMS gateway" }
+		                { "point" : "integrated third Rparty plugins like payment Gateway and SMS gateway" },
+		                { "point" : "Create new small framework in core PHP for CURD operation PHP project. Made CURD operation easy and faster development achieved" }
 					]
 				},
 				{
