@@ -48,18 +48,9 @@
 					]
 				},
 				{
-					"title" : "March 2014 - Nov 2014 (9 months) : Xoptimo Pvt. Ltd. : Software Developer",
-					"points" : [
-						{ "point" : "2nd Company" },
-		           		{ "point" : "Worked on PHP CMS like Drupal, Magento, got opportunity to learn jQuery, core css in detail" },
-		           		{ "point" : "I worked on some startup projects." },
-		                { "point" : "Interesting part is client is not aware about his requirement, we provide him solutions which he required." }
-					]
-				},
-				{
 					"title" : "Dec 2014 - June 2016 (19 months) : Hartley Lab Pvt. Ltd. : Sr. Software Developer",
 					"points" : [
-						{ "point" : "3rd Company and I was 1st Employee" },
+						{ "point" : "I was 1st Employee of company." },
 		           		{ "point" : "Got opportunity to explore scope" },
 		           		{ "point" : "Utilize Agile Development flow with Jira as a project management tool, github as repository - worked on Bootstrap, core css, jQuery" },
 		                { "point" : "Having knowledge about Adobe Photoshop" },
